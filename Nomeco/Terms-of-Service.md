@@ -1,4 +1,4 @@
-# Florida Finances - Terms of Service
+# Nomeco - Terms of Service
 
 ## Rights
 
@@ -10,4 +10,4 @@ Please agree to the following agreements as you read them, and refer to "I" as y
 
 1) I will not attempt to manipulate the data of others that use the bot, nor try to access them.
 2) I will not attempt to gain inorganic bot currency by manipulating my own data.
-3) I understand that by use of this bot, I agree to the Florida Finances Privacy Policy, and the Florida Finances Terms of Service. I understand that a violation of the Florida Finances Terms of Service can get me *blacklisted*.
+3) I understand that by use of this bot, I agree to the Nomeco Privacy Policy, and the Nomeco Terms of Service. I understand that a violation of the Nomeco Terms of Service can get me *blacklisted*.
