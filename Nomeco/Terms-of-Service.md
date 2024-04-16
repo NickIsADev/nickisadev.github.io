@@ -2,7 +2,7 @@
 
 ## Rights
 
-You, as the bot user, can request access to the data stored by Nomeco at any time by Direct Messaging `@literally.nick`.
+You, as the bot user, can request access to *your* data that is stored by Nomeco at any time by Direct Messaging `@literally.nick`.
 
 ## Agreements
 
