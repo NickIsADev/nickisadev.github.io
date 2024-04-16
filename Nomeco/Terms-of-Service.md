@@ -14,4 +14,7 @@ Please agree to the following agreements as you read them, and refer to "I" as y
 
 ## Updates
 
-When the Nomeco Terms of Service updates, a Global Announcement will be sent, advising all users of Nomeco to check the updated Terms of Service.
+When the Nomeco Terms of Service updates, a Global Announcement will be sent, advising all users of Nomeco to check the updated Terms of Service.\
+\
+\
+[Back](https://nickisadev.github.io/Nomeco)
