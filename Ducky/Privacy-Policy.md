@@ -1,4 +1,7 @@
 # Ducky | Privacy Policy
+## Agreement
+By using Ducky, you are subject to the agreement of this Privacy Policy. It is your responsibility to read and stay up-to-date with this document.
+
 ## Data Collection
 Ducky collects data from the server/user it is used by such as:
 - Server ID
