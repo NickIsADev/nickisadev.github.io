@@ -19,7 +19,7 @@ By purchasing Ducky Plus+ through any payment method/form, you are subject to th
 ### Refunds
 If Ducky Plus+ is purchased via a Roblox T-Shirt, it is **non-refundable**. Ducky reserves the right to maintain or utilize these funds. If Ducky Plus+ is purchased via Server Boosting, you can **revoke** that boost to refund your subscription.
 
-### Authorization
+### Revokability
 Ducky reserves the right to terminate your access to Ducky Plus+ for any reason.
 
 ## Authorization of Use
