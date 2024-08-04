@@ -20,11 +20,14 @@ By purchasing Ducky Plus+ through any payment method/form, you are subject to th
 If Ducky Plus+ is purchased via a Roblox T-Shirt, it is **non-refundable**. Ducky reserves the right to maintain or utilize these funds. If Ducky Plus+ is purchased via Server Boosting, you can **revoke** that boost to refund your subscription.
 
 ### Revokability
-Ducky reserves the right to terminate your access to Ducky Plus+ for any reason.
+Ducky reserves the right to terminate your access to Ducky Plus+ for any reason. If you would like to appeal this, you may do so by opening a **Support** ticket in the [Ducky Support](https://discord.gg/w2dNr7vuKP) server.
 
 ## Authorization of Use
-Ducky Developers may terminate you or your server's access to using Ducky at any time, without having to provide reason or evidence.
-\
-\
-\
+Ducky Developers may terminate you or your server's access to using Ducky at any time, for any reason. If you would like to appeal your Ducky blacklist/access termination, you may do so by opening a **Support** ticket in the [Ducky Support](https://discord.gg/w2dNr7vuKP) server.
+<br><br><br>
+
+
+> *For any questions or concerns about these Terms of Service, you may open a **Support** ticket in the [Ducky Support](https://discord.gg/w2dNr7vuKP) server.*
+
+<br><br>
 [Back](https://nickisadev.github.io/Nomeco)
