@@ -6,7 +6,6 @@ By using Ducky, you are subject to the agreement of this Privacy Policy. It is y
 Ducky collects data from the server/user it is used by such as:
 - Server ID
 - Server Name
-- Server Invite (for support purposes only)
 - Server Owner & Server Owner ID
 - Server Membercount
 - Server Rolecount
