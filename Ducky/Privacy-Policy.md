@@ -32,7 +32,7 @@ Ducky also collects data based on server configuration, such as audit logging:
 - As well as the built-in Discord Audit Logs.
   
 ## Storage of Data
-Your data is stored securely in a JSON file, that can only be accessed by Ducky Developers, which include Troptop (@literally.nick) and yaboy_mino (@ato3_). Your data will only be looked up by developers for debugging purposes, *with the relevant data owner's consent*.
+Your data is stored securely in a JSON file, that can only be accessed by Ducky Developers, which include Troptop (@literally.nick) and bobbibones (@bobbibones). Your data will only be looked up by developers for debugging purposes, *with the relevant data owner's consent*.
 
 ## Access to Data
 Your data is not sold or given to **anyone**. Ducky Developers will not access or use your data without your consent. Data manipulation will only occur for testing and development purposes, and will only be done on data within the Ducky Support server. External server's data will not be manipulated, unless it is an official Ducky Testing server. If you would like to maintain a copy of your data, you can do so by opening a Support ticket in the [Ducky Support](https://discord.gg/w2dNr7vuKP) server, and you will be provided with a **complete** copy of all data related to you.
